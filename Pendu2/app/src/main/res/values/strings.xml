@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pendu</string>
+    <string name="send">Envoyer</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="player">Valider</string>
+    <string name="top">Voir les scores</string>
+    <string name="accueil">Accueil</string>
+</resources>
